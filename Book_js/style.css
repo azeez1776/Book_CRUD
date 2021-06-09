@@ -1,0 +1,22 @@
+#alert {
+  display: flex;
+  justify-content: center;
+}
+
+#success {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  color: white;
+  width: 10em;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#fail {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  color: white;
+  width: 10em;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
